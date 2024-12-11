@@ -1,1 +1,2 @@
 This is a hello world file to learn git
+here is an edit to test the vs code commit message
